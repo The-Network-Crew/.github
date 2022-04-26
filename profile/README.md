@@ -1,3 +1,5 @@
-LEOPARD.host Repo
+LEOPARD.host Dev/Ops Repositories
 
-© TNC
+Contact: Front-door or LinkedIn
+
+© The Network Crew Pty Ltd
