@@ -1,5 +1,5 @@
-LEOPARD.host Dev/Ops Repositories
+**LEOPARD.host Project Repositories**
 
 Contact: Front-door or LinkedIn
 
-© The Network Crew Pty Ltd
+© [The Network Crew Pty Ltd](https://thenetworkcrew.com.au)
