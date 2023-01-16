@@ -1,4 +1,4 @@
-**LEOPARD.host Project Repositories**
+**[LEOPARD.host](https://leopard.host) Project Repositories**
 
 Contact: Front-door or LinkedIn
 
